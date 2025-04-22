@@ -8,6 +8,7 @@ This project demonstrates how to classify emotions in text using a **Convolution
 We use a dataset of labeled text data (with emotional categories) and process it to train a CNN model. The model uses pre-trained word embeddings from **FastText** to map words to vectors that capture their meanings, and it then uses CNN layers to learn patterns and classify emotions.
 
 ---
+www.kaggle.com/datasets/yashgupta1161/cnn-dataset
 
 ## Libraries Used
 
